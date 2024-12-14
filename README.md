@@ -23,7 +23,7 @@ Various steps of importing data, Data cleaning and EDA and preprocessing are don
 
 Method 1: Using manual fuzzy segmentation based on the metrics that are defined for each perk. The presentation file is also made based on the result of this method. Presentation file can be found in the resources folder. and the presentation video can found via this [link](https://youtu.be/HZBm9ikNFLo)
 
-Method 2: Kmean
+Method 2: K-means Clustering
 
 The code and detailed explanation over the apprach can be found in the Jupyter Notebook file.
 
